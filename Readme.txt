@@ -16,7 +16,7 @@ Objective
 
 4.	The primary aim of our app is to encourage healthy eating behaviors and enhance overall health and well-being.
 
-1.4 Member Roles
+Member Roles
 
 Carreon, John Zacqueo	           Web Designer
 Dela Rosa, Dennis	           User Experience Designer
